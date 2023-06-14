@@ -5,7 +5,7 @@ import Footer from '../../common/Footer/Footer';
 import scrollToTop from '../../../functions/scrollToTop';
 import './NotFound.css';
 const NotFound = () => {
-    document.title = `Page not found | CoinStats`;
+    document.title = `Page not found | InsightCoin`;
 
     useEffect(() => {
         scrollToTop();
