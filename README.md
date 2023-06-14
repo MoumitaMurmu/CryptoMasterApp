@@ -1,8 +1,8 @@
 # InsightCoin | Real-Time Insights for Smart Traders
 Stay updated with the crypto world. Our platform provides real-time tracking, price comparison, and trend analysis for various cryptocurrencies. Simplify your crypto journey and make informed decisions in this volatile market. A React platform is built to track all the insights of a cryptocurrency in real time using public web server. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-*command runs the app in the development mode 
-# 'npm start'
+To runs the app in the development mode command # 'npm start'
+
 whereas 'npm run build' generates the production files.
 
 ## Home Component
