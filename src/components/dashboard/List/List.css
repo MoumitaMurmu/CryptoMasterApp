@@ -1,0 +1,30 @@
+.rel-obj11{
+    position: relative;
+  }
+  .rel-obj11 .icon{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    top:0;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .rel-obj11 .d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--theme-bg-color-secondary);
+    padding: 0 15px;
+    margin-bottom: 5px;  
+    border-radius: 5px;
+  
+  }
+  .rel-obj11 .coin-logo{
+    width: 40px;
+    height: 40px;
+  }
+  .rel-obj11 .f-width{
+    width: 10% !important;
+  }

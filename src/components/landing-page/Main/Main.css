@@ -1,0 +1,28 @@
+.home80{
+    padding-top: 60px;
+    padding-bottom: 80px;
+  }
+  .home80 .button{
+    width: 200px;
+    padding-bottom: 20px;
+  }
+  .home80 .name{
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: 0;
+  }
+  .home80 .crypto-icon{
+    width: 100%;
+  }
+  @media only screen and (max-width:900px){
+    .home80{
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+    .home80 .name, .home80 .para{
+     text-align: center;
+    }
+    .home80 .button{
+      margin: 0 auto;
+    }
+  }
