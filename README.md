@@ -1,54 +1,50 @@
-# CoinStats | Analyze crypto coin stats in real time
-With so many cryptocurrencies in circulation and rapid fluctuations, being up to date with all the cryptocurrencies can be hard. A React platform is built to track all the insights of a cryptocurrency in real time using public web server. 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 'npm start' command runs the app in the development mode whereas 'npm run build' generates the production files.
+# InsightCoin | Real-Time Insights for Smart Traders
+Stay updated with the crypto world. Our platform provides real-time tracking, price comparison, and trend analysis for various cryptocurrencies. Simplify your crypto journey and make informed decisions in this volatile market. A React platform is built to track all the insights of a cryptocurrency in real time using public web server. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*command runs the app in the development mode 
+# 'npm start'
+whereas 'npm run build' generates the production files.
 
 ## Home Component
 Basic landing page of the application.
 
-![home-min](https://user-images.githubusercontent.com/58258334/235501406-e25ae91e-54b9-4e5a-a90f-1fb4ea52a2c3.png)
+![Home-page](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/4a8cad88-cc67-4075-b886-bef281c584b5)
+
 
 ## Coins Component Grid View
 Where user can see upto 100 crypto coins in real time
 
-![coins-min](https://user-images.githubusercontent.com/58258334/235501679-2bffe651-d473-4d79-aac9-1e9f57e9da67.png)
+![Coins](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/42219bf3-3adb-4827-ae74-d77c8bc93751)
 
 ## Coins Component List View
 Where user can see upto 100 crypto coins in real time
 
-![coins1-min](https://user-images.githubusercontent.com/58258334/235501740-42bf29de-dc02-4771-a756-0e9b031fb654.png)
+![ListView](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/459ce05f-f643-433f-b176-92a8a9b2a897)
 
 ## Search Bar
 Where user can saerch crypto coins.
 
-![searchbar-min](https://user-images.githubusercontent.com/58258334/235501958-e91413e6-4a2e-4b4e-b25c-7da80d7a1497.png)
+![Search](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/100078e6-4a45-4618-aacd-92820e86858c)
+
+## Starred Coins
+![starred](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/87fdbf81-0ddb-48a7-a2af-ff231f30c894)
 
 ## Pagination
+
 Only showing 10 crypto coins per page
+![compareone](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/321cea5b-ceec-4330-baf8-f5d050378359)
 
-![pagination-min](https://user-images.githubusercontent.com/58258334/235502088-ebb2c98f-a2ea-4dec-a839-0a90f0d3b1ce.png)
+![comparetwo](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/6611bde6-2610-4075-9cc6-731895870ceb)
 
-![coin-btc-min](https://user-images.githubusercontent.com/58258334/235503048-11085ecc-7abd-46eb-a924-43d8f721dbfb.png)
+![comparethree](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/ac5447f8-33da-44d6-8841-b7d9b5a46c17)
 
-![coin-btc-days-min](https://user-images.githubusercontent.com/58258334/235503084-41cbec8a-4c05-432c-b40a-746816418800.png)
+![comfour](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/ff316633-a961-459e-9751-e54d34115c4b)
 
-![coin-btc-volume-min](https://user-images.githubusercontent.com/58258334/235503134-dc83845b-f48b-4e7f-a16b-9cfcbe4e5f00.png)
+![comfive](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/79d9b709-06c9-4444-bec3-fe3bbacdf410)
 
-![coin-btc-market-cap-min](https://user-images.githubusercontent.com/58258334/235503114-6fbc699a-a83a-47ad-812c-f0fb914563a2.png)
+![comsix](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/edf727b1-8c31-4ef5-a7be-299b9e9956d4)
 
-![compare-min](https://user-images.githubusercontent.com/58258334/235503396-8ac1ce2c-a429-40b4-a6ce-c4b7670612a0.png)
+![comparer](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/73d63229-b8bf-4768-83a4-7f08f5de9456)
 
-![comparecoin1-min](https://user-images.githubusercontent.com/58258334/235503487-57de9530-958b-4693-a2b2-af6c017c1b87.png)
 
-![comparecoin2-min](https://user-images.githubusercontent.com/58258334/235503488-3b2d6e17-31c2-4c36-8446-daad728b80e0.png)
-
-![comparedays-min](https://user-images.githubusercontent.com/58258334/235503500-c0840c43-9c2a-4a43-a5ee-87694b29ac98.png)
-
-![comparemarketcap-min](https://user-images.githubusercontent.com/58258334/235503551-d3d339c8-951b-4ead-9c37-c5a67e936388.png)
-
-![comparevolume-min](https://user-images.githubusercontent.com/58258334/235503590-306cbfc8-e229-46ad-9ded-5347c8e9f2ec.png)
-
-![starredempty-min](https://user-images.githubusercontent.com/58258334/235503649-02245eaa-d4ef-464c-837a-d01d9a19fcb8.png)
-
-![starred-min](https://user-images.githubusercontent.com/58258334/235503666-ca6decf2-b0cf-4809-a5ca-149ccee89241.png)
-
-![404-min](https://user-images.githubusercontent.com/58258334/235503676-f751c6a2-6132-4ec9-adc7-3df95b825f29.png)
+![page not found](https://github.com/MoumitaMurmu/CryptoMasterApp/assets/69195751/1978f6e4-7df1-4912-b905-90047e0107e2)
